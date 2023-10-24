@@ -4,6 +4,11 @@ body {
   font-style: oblique;
 }
 
+/* Tailwind Color */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* ---------------------------------- */
 /* erste Section in der main */
 /* mit linear-gradient habe ich den Farbverlauf im Bild geändert */
