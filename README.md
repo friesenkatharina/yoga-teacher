@@ -13,4 +13,4 @@ The next section revolves around the presentation of offers and resources. This 
 
 Lastly, the footer section provides a conclusive and comprehensive ending to the document. In the footer, you'll find a strategically placed button, allowing users to take action even after scrolling through the entire content. Additionally, icons are linked to various social media platforms, enabling users to connect with the content creator across different online channels. Altogether, these sections work harmoniously to create an engaging and informative HTML document."
 
-## Code description CSS
+
